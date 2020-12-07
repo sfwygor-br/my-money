@@ -1,13 +1,13 @@
 # my-money
 App to control budget
 
-### INSTALAÇÃO LOCAL
-* Instale o Node JS;
-* Instale o banco de dados MongoDB;
-* Em seu servidor local baixe o projeto usando `git clone`;
-* Instale as dependências através do `npm install`;
+### Local installation
+* Install Node JS;
+* Install MongoDB;
+* Download repo using `git clone`;
+* Install all dependencies using `npm install`;
 
-### BIBLIOTECAS DO PROJETO
+### Project libraries
 * body-parser
 * consign
 * ejs
@@ -16,9 +16,7 @@ App to control budget
 * mongodb
 
 ----------------------------
-#### SE VOCÊ CHEGOU ATÉ AQUI
-Muito obrigado pela atenção
 
-#### SOBRE O AUTOR/ORGANIZADOR
+#### Contact author
 Wygor Felipe Souza 
 felipe@masteryidea.com
